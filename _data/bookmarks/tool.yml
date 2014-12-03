@@ -1,0 +1,9 @@
+- name: html2haml
+  source: http://html2haml.herokuapp.com/
+
+- name: html2slim
+  source: http://html2slim.herokuapp.com/
+
+
+- name: js2coffee
+  source: http://js2coffee.org/
