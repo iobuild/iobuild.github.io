@@ -1,2 +1,4 @@
-- name: 只做数据绑定的JS框架，相对其他MVC框架来说更简洁些
-  source: http://gwendall.github.io/way/
+- name: bootstrap 中文资料
+  source:   http://www.bootcss.com/
+
+

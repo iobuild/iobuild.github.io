@@ -4,3 +4,14 @@
 
 - name: Cookies on Rails
   source: http://blog.bigbinary.com/2013/03/19/cookies-on-rails.html
+
+
+
+- name: Ruby: inject 
+  source: http://blog.jayfields.com/2008/03/ruby-inject.html
+
+
+
+- name: Pitfall in Nokogiri XPath and Namespace
+  source: http://timnew.me/blog/2012/10/25/pitfall-in-nokogiri-xpath-and-namespace/
+
