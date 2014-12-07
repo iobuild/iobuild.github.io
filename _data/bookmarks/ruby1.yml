@@ -7,7 +7,7 @@
 
 
 
-- name: Ruby: inject 
+- name: Ruby inject 
   source: http://blog.jayfields.com/2008/03/ruby-inject.html
 
 
