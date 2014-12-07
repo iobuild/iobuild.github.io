@@ -38,7 +38,8 @@ description: ""
 #### 开源项目经历
 
 
-
+* [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 mechanize 开发的网页爬虫工具
+* [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} 基于 rails engine 开发的轻量型论坛
 * [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} 基于 html5/websocket/em-websocket 做的一个 demo 聊天室
 * [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} 用 rails + java/android 实现的一个服务器 + 客户端问答程序, 用于解决学习西班牙中遇到的语法问题
 * [Ckeditor](https://github.com/galetahub/ckeditor/pull/489){:target="_blank"} 解决 Ckeditor 一个小 bug
