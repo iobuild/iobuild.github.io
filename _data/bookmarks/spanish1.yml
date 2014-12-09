@@ -1,0 +1,29 @@
+- name:  tiendasenchina
+  source: http://tiendasenchina.com
+
+
+- name: trabajoenchina
+  source: http://trabajoenchina.org
+
+
+
+- name: experienciaenchina
+  source: http://www.experienciaenchina.com
+
+
+
+- name: viajar a china
+  source: http://guias-viajar.com/china
+
+
+- name: saporedicina
+  source: http://www.saporedicina.com/es
+
+
+- name: viajesdechina
+  source: http://www.viajesdechina.com
+
+
+
+- name: viajarporchina
+  source: http://www.viajarporchina.com
