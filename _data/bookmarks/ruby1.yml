@@ -20,3 +20,16 @@
   source: https://rubymonk.com
 
 
+
+- name: ihower
+  source: http://ihower.tw/rails4/index.html
+
+
+
+- name: Ruby EventMachine Web Socket Redis Pub/Sub Chat Room
+  source: http://ericlondon.com/2014/03/04/ruby-eventmachine-web-socket-redis-pub-sub-chat-room.html
+
+
+
+- name:  Automate tasks on the web with Ruby and Capybara
+  source: https://www.amberbit.com/blog/2014/2/12/automate-tasks-on-the-web-with-ruby-and-capybara/

@@ -7,3 +7,9 @@
 
 - name: Rails autoloading — how it works, and when it doesn't
   source: http://urbanautomaton.com/blog/2013/08/27/rails-autoloading-hell/
+
+
+
+- name: Integrate I18n Flash Messages with Devise and Bootstrap
+  source: https://github.com/plataformatec/devise/wiki/How-To:-Integrate-I18n-Flash-Messages-with-Devise-and-Bootstrap
+  

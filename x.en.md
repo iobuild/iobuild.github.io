@@ -1,0 +1,141 @@
+---
+layout: default
+title: "X"
+description: ""
+---
+{% include JB/setup %}
+
+
+#### Arly Xiao
+
+**Age:** 1986 / 08 / 19, From Jinjinag of Fujian Province
+
+**Program Skills:** Ruby, Javascript, PHP, JAVA
+
+**Frameworks:** 
+[Ruby on rails](http://rubyonrails.org/){:target="_blank"}, 
+[Yii Framework](http://www.yiiframework.com/){:target="_blank"}, 
+[Zend Framework](http://framework.zend.com/){:target="_blank"}
+
+**Databases:** SQLite, MySQL, PostgreSQL, Redis, MongoDB
+
+**Development IDE:** Mac Os / Linux + Sublime / Android Studio / Vim
+
+
+
+**Github:** 
+[arlyxiao](https://github.com/arlyxiao){:target="_blank"}, 
+[iobuild](https://github.com/iobuild){:target="_blank"}
+
+
+
+***
+
+
+
+
+#### Open Source Experience
+
+
+* [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} One Spider tool based on mechanize
+* [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} one simple ask/answer rails engine
+* [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} one chatroom demo based on html5/websocket/em-websocket 
+* [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} one simple ask/answer demo implemented by Android client + Rails server
+* [Ckeditor](https://github.com/galetahub/ckeditor/pull/489){:target="_blank"} Solve one small bug from Ckeditor
+* [spree_social](https://github.com/spree-contrib/spree_social/pull/45){:target="_blank"} Add google+ support
+
+
+
+***
+
+
+
+#### Program learning experience
+* **2011 - now:** started using Ruby from 2011,  started android development from 2012, Focus on Ruby on Rails / Android and other various related skills now
+* **2007 - 2011:**  Uses PHP/Zend framework/YII framework to develop various web applications
+* **2003 - 2006:**  Study linux includes (Debian, Slackware, Archlinux, LFS etc) installation, upgrade, system maintainance, desktop(fvwm etc.), the most active people in early linuxsir.org and delphi development
+
+
+***
+
+
+
+
+#### Company Experience
+**2012/02 - Now: Mindpin**
+
+**Program:** Ruby, Javascript, Java
+
+**Company Description:** Focus on the education software include web applications and android. The main projects implemented by Ruby/Rails/Java
+
+**Responsibility:**
+
+* [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} one ruby gem based on glebtv-mongoid_nested_set
+* [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
+* [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} One bookmark collection tools.
+* [FileDownloaderManager](https://github.com/mindpin/FileDownloaderManager){:target="_blank"} One Android Component managed with maven
+* [IM](https://github.com/mindpin/knowledge-space-net-lib/wiki/%E5%9C%A8%E7%8E%B0%E6%9C%89web%E6%9C%8D%E5%8A%A1%E4%B8%8B%E9%83%A8%E7%BD%B2openfire%E5%B9%B6%E6%95%B4%E5%90%88%E7%94%A8%E6%88%B7%E7%9A%84%E6%96%B9%E6%A1%88){:target="_blank"} One IM tool based on openfire and integrate with web users.
+* [NoticeManager](https://github.com/mindpin/NoticeManager){:target="_blank"} One Android component managed with maven
+* [pin-weibo-info-graph](https://github.com/mindpin/pin-weibo-info-graph){:target="_blank"} Get data from weibo by its api
+* [share-android-preview](https://github.com/mindpin/eshare-android-preview){:target="_blank"} Eshare android client
+* [simple-excel-import](https://github.com/mindpin/simple-excel-import){:target="_blank"} One ruby gem which can import excel
+
+
+***
+
+**2011/06 - 2012/02: E-luxury Brands Distribution Ltd**
+
+**Program:** PHP
+
+**Company Description:** a foreign-owned company that offers an end to end e-commerce solution for international brands willing to benefit from the growing opportunities of B2C e-commerce in China
+
+**Responsibility:**
+
+* www.yangjiu.com (closed) Maintain and development
+* www.mymingpai.com (closed) Maintain and development
+
+
+***
+
+
+
+**2009/04 - 2010/12: Shanghai Cailuo ltd**
+
+**Program:** PHP, Zend Framework
+
+**Company Description:** Startup company aims to implement an advertisement system combian web and hardware.
+
+**Responsibility:**
+
+* ooospace.com (closed) Development and maintainance
+
+
+
+
+***
+
+
+
+**2007/01 - 2008/04: Apple Foreign Connections Co .Ltd trading as Apple Travel**
+
+**Program:** PHP
+
+**Company Description:** Focus on the travel service for the foreigners
+
+**Responsibility:**
+
+* www.whatsonxiamen.com
+* www.appletravel.cn
+
+
+
+#### Education
+* [lmu](http://www.lmu.cn){:target="_blank"} 2003 - 2006
+
+
+
+
+#### Contact
+* **Email:** kingla_pei # 163.com
+* **Tel:** 139 60 418 536
+
