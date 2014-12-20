@@ -40,8 +40,8 @@ description: ""
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} One Spider tool based on mechanize
 * [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} one simple ask/answer rails engine
 * [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} one chatroom demo based on html5/websocket/em-websocket 
-* [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} one simple ask/answer demo implemented by Android client + Rails server
-* [Ckeditor](https://github.com/galetahub/ckeditor/pull/489){:target="_blank"} Solve one small bug from Ckeditor
+* [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} One simple ask/answer demo implemented by Android client + Rails server
+* [Ckeditor](https://github.com/galetahub/ckeditor/pull/489){:target="_blank"} Solve a small bug from Ckeditor
 * [spree_social](https://github.com/spree-contrib/spree_social/pull/45){:target="_blank"} Add google+ support
 
 
@@ -51,7 +51,7 @@ description: ""
 
 
 #### Program learning experience
-* **2011 - now:** started using Ruby from 2011,  started android development from 2012, Focus on Ruby on Rails / Android and other various related skills now
+* **2011 - now:** Started using Ruby from 2011,  started android development from 2012, Focus on Ruby on Rails / Android and other various related skills now
 * **2007 - 2011:**  Uses PHP/Zend framework/YII framework to develop various web applications
 * **2003 - 2006:**  Study linux includes (Debian, Slackware, Archlinux, LFS etc) installation, upgrade, system maintainance, desktop(fvwm etc.), the most active people in early linuxsir.org and delphi development
 
@@ -70,7 +70,7 @@ description: ""
 
 **Responsibility:**
 
-* [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} one ruby gem based on glebtv-mongoid_nested_set
+* [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} One ruby gem based on glebtv-mongoid_nested_set
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
 * [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} One bookmark collection tools.
 * [FileDownloaderManager](https://github.com/mindpin/FileDownloaderManager){:target="_blank"} One Android Component managed with maven

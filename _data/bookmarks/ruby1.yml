@@ -33,3 +33,16 @@
 
 - name:  Automate tasks on the web with Ruby and Capybara
   source: https://www.amberbit.com/blog/2014/2/12/automate-tasks-on-the-web-with-ruby-and-capybara/
+
+
+
+
+
+
+- name:   When to use alias_method_chain
+  source: http://erniemiller.org/2011/02/03/when-to-use-alias_method_chain/
+
+
+
+- name:   Ruby 2.0 vs alias_method_chain
+  source: http://codelevy.com/2013/02/26/ruby2.0-vs-alias_method_chain.html

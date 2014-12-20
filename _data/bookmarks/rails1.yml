@@ -13,3 +13,7 @@
 - name: Integrate I18n Flash Messages with Devise and Bootstrap
   source: https://github.com/plataformatec/devise/wiki/How-To:-Integrate-I18n-Flash-Messages-with-Devise-and-Bootstrap
   
+
+- name: How to create a new Rails engine which uses RSpec and FactoryGirl for testing
+  source: http://www.andrewhavens.com/posts/27/how-to-create-a-new-rails-engine-which-uses-rspec-and-factorygirl-for-testing
+
