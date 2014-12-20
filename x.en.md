@@ -38,8 +38,8 @@ description: ""
 
 
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} One Spider tool based on mechanize
-* [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} one simple ask/answer rails engine
-* [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} one chatroom demo based on html5/websocket/em-websocket 
+* [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} One simple ask/answer rails engine
+* [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} One chatroom demo based on html5/websocket/em-websocket 
 * [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} One simple ask/answer demo implemented by Android client + Rails server
 * [Ckeditor](https://github.com/galetahub/ckeditor/pull/489){:target="_blank"} Solve a small bug from Ckeditor
 * [spree_social](https://github.com/spree-contrib/spree_social/pull/45){:target="_blank"} Add google+ support
