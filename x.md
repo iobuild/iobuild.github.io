@@ -37,7 +37,7 @@ description: ""
 
 #### 开源项目经历
 
-
+* [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认bootstrap模板等许多基本网站特性的应用
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 mechanize 开发的网页爬虫工具
 * [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} 基于 rails engine 开发的轻量型论坛
 * [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} 基于 html5/websocket/em-websocket 做的一个 demo 聊天室

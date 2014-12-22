@@ -36,6 +36,7 @@ description: ""
 
 #### Open Source Experience
 
+* [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} Generate a basic rails application with devise user authentication, bootstrap layout, admin management and so on.
 
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} One Spider tool based on mechanize
 * [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} One simple ask/answer rails engine
