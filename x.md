@@ -8,7 +8,7 @@ description: ""
 
 #### 肖少富 (Arly Xiao)
 
-**年龄:** 1986 / 08 / 19, 来自福建晋江
+**年龄:** 1986 / 08 / 19, 来自福建
 
 **语言掌握:** Ruby, Javascript, PHP, JAVA
 
@@ -17,7 +17,7 @@ description: ""
 [Yii Framework](http://www.yiiframework.com/){:target="_blank"}, 
 [Zend Framework](http://framework.zend.com/){:target="_blank"}
 
-**常用数据库:** SQLite, MySQL, PostgreSQL, Redis
+**常用数据库:** SQLite, MySQL, PostgreSQL, Redis, Mongodb
 
 **开发环境:** Mac Os / Linux + Sublime / Android Studio / Vim
 
@@ -67,8 +67,7 @@ description: ""
 
 
 
-#### 公司履历
-**2012/02 - 现在: Mindpin**
+#### 2012/02 - 现在: Mindpin
 
 **开发工具:** Ruby, Javascript, Java
 
@@ -87,9 +86,12 @@ description: ""
 * [simple-excel-import](https://github.com/mindpin/simple-excel-import){:target="_blank"} 一个用来导入 Excel 数据的 Ruby Gem
 
 
+
 ***
 
-**2011/06 - 2012/02: 宜博商贸(上海)有限公司**
+
+
+#### 2011/06 - 2012/02: 宜博商贸(上海)有限公司
 
 **开发工具:** PHP
 
@@ -105,7 +107,7 @@ description: ""
 
 
 
-**2009/04 - 2010/12: 上海彩络网络科技**
+#### 2009/04 - 2010/12: 上海彩络网络科技
 
 **开发工具:** PHP, Zend Framework
 
@@ -122,7 +124,7 @@ description: ""
 
 
 
-**2007/01 - 2008/04: 厦门苹果林商务咨询有限公司**
+#### 2007/01 - 2008/04: 厦门苹果林商务咨询有限公司
 
 **开发工具:** PHP
 
@@ -135,10 +137,18 @@ description: ""
 
 
 
+
+***
+
+
+
 #### 教育背景
 * [泉州黎明大学](http://www.lmu.cn){:target="_blank"} 2003 - 2006
 * [晋江季延中学](http://www.jjjy.net){:target="_blank"} 2000 - 2003
 
+
+
+***
 
 
 

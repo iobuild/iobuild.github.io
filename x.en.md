@@ -8,7 +8,7 @@ description: ""
 
 #### Arly Xiao
 
-**Age:** 1986 / 08 / 19, From Jinjinag of Fujian Province
+**Age:** 1986 / 08 / 19, From Fujian Province
 
 **Program Skills:** Ruby, Javascript, PHP, JAVA
 
@@ -64,8 +64,7 @@ description: ""
 
 
 
-#### Company Experience
-**2012/02 - Now: Mindpin**
+#### 2012/02 - Now: Mindpin
 
 **Program:** Ruby, Javascript, Java
 
@@ -86,7 +85,7 @@ description: ""
 
 ***
 
-**2011/06 - 2012/02: E-luxury Brands Distribution Ltd**
+#### 2011/06 - 2012/02: E-luxury Brands Distribution Ltd
 
 **Program:** PHP
 
@@ -102,7 +101,7 @@ description: ""
 
 
 
-**2009/04 - 2010/12: Shanghai Cailuo ltd**
+#### 2009/04 - 2010/12: Shanghai Cailuo ltd
 
 **Program:** PHP, Zend Framework
 
@@ -119,7 +118,7 @@ description: ""
 
 
 
-**2007/01 - 2008/04: Apple Foreign Connections Co .Ltd trading as Apple Travel**
+#### 2007/01 - 2008/04: Apple Foreign Connections Co .Ltd trading as Apple Travel
 
 **Program:** PHP
 
@@ -131,10 +130,15 @@ description: ""
 * www.appletravel.cn
 
 
+***
+
 
 #### Education
 * [lmu](http://www.lmu.cn){:target="_blank"} 2003 - 2006
 
+
+
+***
 
 
 
