@@ -5,7 +5,7 @@
 - name: How are gems loaded in a Rails application
   source: http://www.cybrilla.com/blog/how-are-gems-loaded-in-a-rails-application/
 
-- name: Rails autoloading — how it works, and when it doesn't
+- name: Rails autoloading — how it works and when it does not
   source: http://urbanautomaton.com/blog/2013/08/27/rails-autoloading-hell/
 
 
