@@ -23,6 +23,9 @@ description: ""
 
 **外语能力:** 英语自由口语交流，自由阅读，自由书写，翻译水平尚可
 
+**兴趣爱好:** 喜欢制作一些实用的自动化工具，加快开发速度，希望能更多的用机器代替人工
+
+
 
 **Github:** 
 [arlyxiao](https://github.com/arlyxiao){:target="_blank"}, 
@@ -51,13 +54,15 @@ description: ""
 
 
 
-#### 编程学习使用经历
+#### 编程经历简述
 * **2011 - 到现在:** 从 2011年开始接触 Ruby,  2012开始接触 Android 开发, 现在主要集中在 Ruby on Rails / Android 等相关前后端技术的开发
 * **2007 - 2011:**  主要使用 PHP/Zend framework/YII framework 等前后端技术进行网站开发
 * **2003 - 2006:**  在学校自学 linux 及各大发行版(Debian, Slackware, Archlinux, LFS 等)安装，服务器配置，系统升级, 桌面中文美化, 活跃在早期 linuxsir 论坛等, 同时学习基本的 Delphi ERP 等数据库系统相关开发
 
 
 ***
+
+
 
 
 

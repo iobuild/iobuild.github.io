@@ -21,6 +21,9 @@ description: ""
 
 **Development IDE:** Mac Os / Linux + Sublime / Android Studio / Vim
 
+**Interest:** Love making more automatical tools which can instead of human
+
+
 
 
 **Github:** 
@@ -51,7 +54,7 @@ description: ""
 
 
 
-#### Program learning experience
+#### Program experience
 * **2011 - now:** Started using Ruby from 2011,  started android development from 2012, Focus on Ruby on Rails / Android and other various related skills now
 * **2007 - 2011:**  Uses PHP/Zend framework/YII framework to develop various web applications
 * **2003 - 2006:**  Study linux includes (Debian, Slackware, Archlinux, LFS etc) installation, upgrade, system maintainance, desktop(fvwm etc.), the most active people in early linuxsir.org and delphi development
