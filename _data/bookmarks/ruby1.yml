@@ -51,7 +51,7 @@
 
 
 
-- name:   Ruby: Reading a .json File to Hash
+- name: Reading a json File to Hash
   source: https://hackhands.com/ruby-read-json-file-hash
 
 
