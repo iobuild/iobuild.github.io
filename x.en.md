@@ -74,7 +74,6 @@ description: ""
 **Responsibility:**
 
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} One simple photo upload service
-
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} One ruby gem based on glebtv-mongoid_nested_set
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
 * [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} One bookmark collection tools.

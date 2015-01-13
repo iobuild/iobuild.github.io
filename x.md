@@ -77,7 +77,6 @@ description: ""
 **主要负责的项目:**
 
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} 图片上传服务
-
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} 基于 glebtv-mongoid_nested_set 开发的一个 Ruby Gem
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} 这是一个提供给学校老师跟学生用的校内教学管理系统. 主要负责该系统各个模块的开发
 * [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} 这是一个书签收藏工具. 主要负责把微博登录集成到该工具上
