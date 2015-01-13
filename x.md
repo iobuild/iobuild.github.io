@@ -40,6 +40,7 @@ description: ""
 
 #### 开源项目经历
 
+* [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 rails engine 商店组件，用于快速嵌入任何 Rails 应用中
 * [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认bootstrap模板等许多基本网站特性的应用
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 mechanize 开发的网页爬虫工具
 * [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} 基于 rails engine 开发的轻量型论坛
@@ -74,6 +75,8 @@ description: ""
 **公司简介:** 这是一家专做教育软件的小团队，主要使用的开发工具是 Ruby/Rails/Java, 团队除了做教育在线产品，Android 软件，同时也不断的在开发完善平台所需要的各个 Ruby Gem, Android 组件等
 
 **主要负责的项目:**
+
+* [image-service](https://github.com/mindpin/image-service){:target="_blank"} 图片上传服务
 
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} 基于 glebtv-mongoid_nested_set 开发的一个 Ruby Gem
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} 这是一个提供给学校老师跟学生用的校内教学管理系统. 主要负责该系统各个模块的开发

@@ -39,6 +39,7 @@ description: ""
 
 #### Open Source Experience
 
+* [io_store](https://github.com/iobuild/io_store){:target="_blank"} A rails engine store aims to embed into any rails application
 * [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} Generate a basic rails application with devise user authentication, bootstrap layout, admin management and so on
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} One Spider tool based on mechanize
 * [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} One simple ask/answer rails engine
@@ -71,6 +72,8 @@ description: ""
 **Company Description:** Focus on the education software include web applications and android. The main projects implemented by Ruby/Rails/Java
 
 **Responsibility:**
+
+* [image-service](https://github.com/mindpin/image-service){:target="_blank"} One simple photo upload service
 
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} One ruby gem based on glebtv-mongoid_nested_set
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
