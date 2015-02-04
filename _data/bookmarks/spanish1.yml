@@ -32,3 +32,7 @@
 
 - name: sobrechina.com
   source: http://www.sobrechina.com
+
+
+- name: todosobredinero.com
+  source: http://www.todosobredinero.com

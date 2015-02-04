@@ -28,3 +28,36 @@
   source: http://blog.joshsoftware.com/2013/06/28/troubleshooting-turbolinks-with-rails-4
 
 
+
+
+
+- name: 10 Most Common Rails Mistakes: A Best Practice Tutorial
+  source: http://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make
+
+
+
+
+- name: How to Deploy a Rails 4 App With Git and Capistrano
+  source: http://robmclarty.com/blog/how-to-deploy-a-rails-4-app-with-git-and-capistrano
+
+
+
+
+- name: Deploying Rails app using Nginx, Unicorn, Postgres and Capistrano to Digital Ocean
+  source: https://coderwall.com/p/yz8cha/deploying-rails-app-using-nginx-unicorn-postgres-and-capistrano-to-digital-ocean
+
+
+
+- name:  How to make a dump of an sqlite database in Rails
+  source: http://joshuapaling.com/post/dump-sqlite-database-in-rails
+
+
+
+
+
+
+
+
+
+
+
