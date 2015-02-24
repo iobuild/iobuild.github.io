@@ -1,2 +1,10 @@
 - name: 只做数据绑定的JS框架，相对其他MVC框架来说更简洁些
   source: http://gwendall.github.io/way/
+
+
+- name: Let’s Make a Bar Chart
+  source: http://bost.ocks.org/mike/bar/
+
+
+- name: D3js bar
+  source: https://gist.github.com/ghiden/3046929
