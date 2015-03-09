@@ -36,3 +36,7 @@
 
 - name: todosobredinero.com
   source: http://www.todosobredinero.com
+
+
+- name: Sobre China en elpais
+  source: http://elpais.com/tag/china/a/
