@@ -42,12 +42,12 @@ Ruby on rails, Yii Framework, Zend Framework
 
 #### 开源项目经历
 
-* [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 rails engine 商店组件，用于快速嵌入任何 Rails 应用中
+* [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 Rails Engine 商店组件，用于快速嵌入任何 Rails 应用中
 * [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认bootstrap模板等许多基本网站特性的应用
-* [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 mechanize 开发的网页爬虫工具
-* [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} 基于 rails engine 开发的轻量型论坛
+* [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 Mechanize 开发的网页爬虫工具
+* [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} 基于 Rails Engine 开发的轻量型论坛
 * [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} 基于 html5/websocket/em-websocket 做的一个 demo 聊天室
-* [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} 用 rails + java/android 实现的一个服务器 + 客户端问答程序, 用于解决学习西班牙中遇到的语法问题
+* [spanish_talk_server](https://github.com/arlyxiao/spanish_talk_server){:target="_blank"}, [spanish_talk_android](https://github.com/arlyxiao/spanish_talk_android){:target="_blank"} 用 Rails + Java/Android 实现的一个服务器 + 客户端问答程序, 用于解决学习西班牙中遇到的语法问题
 * [Ckeditor](https://github.com/galetahub/ckeditor/pull/489){:target="_blank"} 解决 Ckeditor 一个小 bug
 * [spree_social](https://github.com/spree-contrib/spree_social/pull/45){:target="_blank"} 增加 google+ 支持
 
@@ -60,7 +60,7 @@ Ruby on rails, Yii Framework, Zend Framework
 #### 编程经历简述
 * **2011 - 到现在:** 从 2011年开始接触 Ruby,  2012开始接触 Android 开发, 现在主要集中在 Ruby on Rails / Android 等相关前后端技术的开发
 * **2007 - 2011:**  主要使用 PHP/Zend framework/YII framework 等前后端技术进行网站开发
-* **2003 - 2006:**  学习 Delphi ERP 等数据库系统相关 跟 linux 及各大发行版(Debian, Slackware, Archlinux, LFS 等)安装，服务器配置，系统升级, 桌面中文美化, 活跃在早期 linuxsir 论坛等
+* **2003 - 2006:**  学习 Delphi ERP 等数据库系统相关 跟 Linux 及各大发行版(Debian, Slackware, Archlinux, LFS 等)安装，服务器配置，系统升级, 桌面中文美化, 活跃在早期 linuxsir 论坛等
 
 
 ***
