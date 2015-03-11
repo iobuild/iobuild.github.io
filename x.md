@@ -30,7 +30,7 @@ Ruby on rails, Yii Framework, Zend Framework
 [iobuild](https://github.com/iobuild){:target="_blank"}
 
 **Blog:** 
-[iobuild](http://iobuild.github.io){:target="_blank"}, 
+[iobuild](http://iobuild.github.io){:target="_blank"}
 
 
 
