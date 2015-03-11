@@ -76,6 +76,10 @@ description: ""
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} One simple photo upload service
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} One ruby gem based on glebtv-mongoid_nested_set
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
+
+* [beikong-eshare](https://github.com/mindpin/beikong-eshare){:target="_blank"} A teaching soft for schools (inhouse software)
+
+
 * [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} One bookmark collection tools.
 * [FileDownloaderManager](https://github.com/mindpin/FileDownloaderManager){:target="_blank"} One Android Component managed with maven
 * [IM](https://github.com/mindpin/knowledge-space-net-lib/wiki/%E5%9C%A8%E7%8E%B0%E6%9C%89web%E6%9C%8D%E5%8A%A1%E4%B8%8B%E9%83%A8%E7%BD%B2openfire%E5%B9%B6%E6%95%B4%E5%90%88%E7%94%A8%E6%88%B7%E7%9A%84%E6%96%B9%E6%A1%88){:target="_blank"} One IM tool based on openfire and integrate with web users.

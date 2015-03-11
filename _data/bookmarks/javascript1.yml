@@ -19,3 +19,9 @@
 
 - name: html5 examples
   source: http://codepen.io/
+
+
+
+
+- name: chart examples
+  source: http://gionkunz.github.io/chartist-js/
