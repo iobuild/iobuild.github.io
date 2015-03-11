@@ -12,10 +12,8 @@ description: ""
 
 **Program Skills:** Ruby, Javascript, PHP, JAVA
 
-**Frameworks:** 
-[Ruby on rails](http://rubyonrails.org/){:target="_blank"}, 
-[Yii Framework](http://www.yiiframework.com/){:target="_blank"}, 
-[Zend Framework](http://framework.zend.com/){:target="_blank"}
+**Frameworks:**
+Ruby on rails, Yii Framework, Zend Framework
 
 **Databases:** SQLite, MySQL, PostgreSQL, Redis, MongoDB
 

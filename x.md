@@ -12,10 +12,8 @@ description: ""
 
 **语言掌握:** Ruby, Javascript, PHP, JAVA
 
-**主要使用过的框架:** 
-[Ruby on rails](http://rubyonrails.org/){:target="_blank"}, 
-[Yii Framework](http://www.yiiframework.com/){:target="_blank"}, 
-[Zend Framework](http://framework.zend.com/){:target="_blank"}
+**主要使用过的 Web 框架:** 
+Ruby on rails, Yii Framework, Zend Framework
 
 **常用数据库:** SQLite, MySQL, PostgreSQL, Redis, Mongodb
 
