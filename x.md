@@ -43,7 +43,7 @@ Ruby on rails, Yii Framework, Zend Framework
 #### 开源项目经历
 
 * [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 Rails Engine 商店组件，用于快速嵌入任何 Rails 应用中
-* [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认bootstrap模板等许多基本网站特性的应用
+* [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认 Bootstrap 模板等许多基本网站特性的应用
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 Mechanize 开发的网页爬虫工具
 * [io_ask](https://github.com/iobuild/io_ask){:target="_blank"} 基于 Rails Engine 开发的轻量型论坛
 * [em-websocket-chatroom](https://github.com/arlyxiao/em-websocket-chatroom){:target="_blank"} 基于 html5/websocket/em-websocket 做的一个 demo 聊天室
@@ -84,7 +84,7 @@ Ruby on rails, Yii Framework, Zend Framework
 * [beikong-eshare](https://github.com/mindpin/beikong-eshare){:target="_blank"} 学校教学管理系统
 * [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} 这是一个书签收藏工具. 主要负责把微博登录集成到该工具上
 * [FileDownloaderManager](https://github.com/mindpin/FileDownloaderManager){:target="_blank"} Android组件，用于实现多线程下载
-* [IM系统](https://github.com/mindpin/knowledge-space-net-lib/wiki/%E5%9C%A8%E7%8E%B0%E6%9C%89web%E6%9C%8D%E5%8A%A1%E4%B8%8B%E9%83%A8%E7%BD%B2openfire%E5%B9%B6%E6%95%B4%E5%90%88%E7%94%A8%E6%88%B7%E7%9A%84%E6%96%B9%E6%A1%88){:target="_blank"} 主要负责基于 openfire 相关的插件开发，环境搭建, android 客户端 demo 开发， 跟现有 web 用户的集成
+* [IM系统](https://github.com/mindpin/knowledge-space-net-lib/wiki/%E5%9C%A8%E7%8E%B0%E6%9C%89web%E6%9C%8D%E5%8A%A1%E4%B8%8B%E9%83%A8%E7%BD%B2openfire%E5%B9%B6%E6%95%B4%E5%90%88%E7%94%A8%E6%88%B7%E7%9A%84%E6%96%B9%E6%A1%88){:target="_blank"} 主要负责基于 openfire 相关的插件开发，环境搭建, Android 客户端 Demo 开发， 跟现有 Web 用户的集成
 * [NoticeManager](https://github.com/mindpin/NoticeManager){:target="_blank"} Android通知组件
 * [pin-weibo-info-graph](https://github.com/mindpin/pin-weibo-info-graph){:target="_blank"} 以图形化的方式展示新浪微博的好友关系链，词频等信息
 * [share-android-preview](https://github.com/mindpin/eshare-android-preview){:target="_blank"} 主要负责参与 Eshare android 客户端开发
