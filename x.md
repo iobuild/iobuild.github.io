@@ -19,8 +19,6 @@ Ruby on rails, Yii Framework, Zend Framework
 
 **开发环境:** Mac Os / Linux + Sublime / Android Studio / Vim
 
-**外语能力:** 英语自由口语交流，自由阅读，自由书写，翻译水平尚可
-
 **兴趣爱好:** 喜欢制作一些实用的自动化工具，加快开发速度，希望能更多的用机器代替人工
 
 
