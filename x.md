@@ -79,7 +79,7 @@ Ruby on rails, Yii Framework, Zend Framework
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} 图片上传服务
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} 基于 glebtv-mongoid_nested_set 开发的一个 Ruby Gem
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} 这是一个提供给学校老师跟学生用的校内教学管理系统. 主要负责该系统各个模块的开发
-* [beikong-eshare](https://github.com/mindpin/beikong-eshare){:target="_blank"} 学校教学管理系统
+* [beikong-eshare](https://github.com/mindpin/beikong-eshare){:target="_blank"} 北京八中等一批学校用的教学管理系统
 * [web-url-collector](https://github.com/mindpin/web-url-collector){:target="_blank"} 这是一个书签收藏工具. 主要负责把微博登录集成到该工具上
 * [FileDownloaderManager](https://github.com/mindpin/FileDownloaderManager){:target="_blank"} Android组件，用于实现多线程下载
 * [IM系统](https://github.com/mindpin/knowledge-space-net-lib/wiki/%E5%9C%A8%E7%8E%B0%E6%9C%89web%E6%9C%8D%E5%8A%A1%E4%B8%8B%E9%83%A8%E7%BD%B2openfire%E5%B9%B6%E6%95%B4%E5%90%88%E7%94%A8%E6%88%B7%E7%9A%84%E6%96%B9%E6%A1%88){:target="_blank"} 主要负责基于 openfire 相关的插件开发，环境搭建, Android 客户端 Demo 开发， 跟现有 Web 用户的集成

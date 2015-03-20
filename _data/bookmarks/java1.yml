@@ -1,2 +1,6 @@
 - name: 只做数据绑定的JS框架，相对其他MVC框架来说更简洁些
   source: http://gwendall.github.io/way/
+
+
+- name: 依赖注入和注解，为什么 Java 比你想象的要好
+  source: http://objccn.io/issue-11-6/
