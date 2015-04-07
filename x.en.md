@@ -55,10 +55,8 @@ Ruby on rails, Yii Framework, Zend Framework
 
 
 
-#### Program experience
-* **2011 - now:** Started using Ruby from 2011,  started android development from 2012, Focus on Ruby on Rails / Android and other various related skills now
-* **2007 - 2011:**  Uses PHP/Zend framework/YII framework to develop various web applications
-* **2003 - 2006:**  Study delphi development and linux includes (Debian, Slackware, Archlinux, LFS etc) installation, upgrade, system maintainance, desktop(fvwm etc.), the most active people in early linuxsir.org
+#### Personal Intro
+Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to 2011, Focus on Ruby/Rails from 2012.Ruby is the main program language with mysql, mongodb. Sometimes also design some Android softwares with Java.
 
 
 ***
@@ -85,6 +83,7 @@ Ruby on rails, Yii Framework, Zend Framework
 * [pin-weibo-info-graph](https://github.com/mindpin/pin-weibo-info-graph){:target="_blank"} Get data from weibo by its api
 * [share-android-preview](https://github.com/mindpin/eshare-android-preview){:target="_blank"} Eshare android client
 * [simple-excel-import](https://github.com/mindpin/simple-excel-import){:target="_blank"} One ruby gem which can import excel
+* [kc-android](https://github.com/mindpin/kc-android){:target="_blank"} An Android app for a school.
 
 
 ***
