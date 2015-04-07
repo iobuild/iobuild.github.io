@@ -55,10 +55,8 @@ Ruby on rails, Yii Framework, Zend Framework
 
 
 
-#### 编程经历简述
-* **2011 - 到现在:** 从 2011年开始接触 Ruby,  2012开始接触 Android 开发, 现在主要集中在 Ruby on Rails / Android 等相关前后端技术的开发
-* **2007 - 2011:**  主要使用 PHP/Zend framework/YII framework 等前后端技术进行网站开发
-* **2003 - 2006:**  学习 Delphi ERP 等数据库系统相关 跟 Linux 及各大发行版(Debian, Slackware, Archlinux, LFS 等)安装，服务器配置，系统升级, 桌面中文美化, 活跃在早期 linuxsir 论坛等
+#### 个人简述
+自我驱动型开发者, 2007 - 2011 年主要使用 PHP / Zend Framework / Yii 进行相关WEB开发, 从 2012 起开始专注于 ruby/rails 相关领域开发.目前主要使用的编程语言以 Ruby 为主. 主要使用 mysql, mongodb 数据库， 偶尔也会使用JAVA做一些 android 相关的小应用.
 
 
 ***
@@ -87,6 +85,8 @@ Ruby on rails, Yii Framework, Zend Framework
 * [pin-weibo-info-graph](https://github.com/mindpin/pin-weibo-info-graph){:target="_blank"} 以图形化的方式展示新浪微博的好友关系链，词频等信息
 * [share-android-preview](https://github.com/mindpin/eshare-android-preview){:target="_blank"} 主要负责参与 Eshare android 客户端开发
 * [simple-excel-import](https://github.com/mindpin/simple-excel-import){:target="_blank"} 一个用来导入 Excel 数据的 Ruby Gem
+* [kc-android](https://github.com/mindpin/kc-android){:target="_blank"} 给一学校用的 Android 客户端
+
 
 
 

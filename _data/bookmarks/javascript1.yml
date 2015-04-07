@@ -25,3 +25,18 @@
 
 - name: chart examples
   source: http://gionkunz.github.io/chartist-js/
+
+
+- name: Understanding JavaScript Prototypes
+  source: https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/
+
+
+
+- name: Node.js itself is blocking, only its I/O is non-blocking
+  source: http://greenash.net.au/thoughts/2012/11/nodejs-itself-is-blocking-only-its-io-is-non-blocking/
+
+
+
+
+- name: Understanding Prototypes in JavaScript
+  source: http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
