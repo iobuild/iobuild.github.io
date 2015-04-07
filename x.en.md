@@ -56,7 +56,7 @@ Ruby on rails, Yii Framework, Zend Framework
 
 
 #### Personal Intro
-Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to 2011, Focus on Ruby/Rails from 2012.Ruby is the main program language with mysql, mongodb. Sometimes also design some Android softwares with Java.
+Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to 2011, Focus on Ruby/Rails from 2012. Ruby is the main program language with mysql, mongodb. Sometimes also design some Android client with Java.
 
 
 ***
