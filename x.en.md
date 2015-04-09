@@ -151,6 +151,3 @@ Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to
 #### Contact
 * **Email:** kingla_pei # 163.com
 * **Tel:** 139 60 418 536
-<p>
-<a href="/myfull.png" target="_blank"><img src="/myfull.png" height="160"></a>
-</p>
