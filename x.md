@@ -64,17 +64,17 @@ Ruby on rails, Yii Framework, Zend Framework
 #### 个人项目
 * [速卖通关键字搜索排行分析](http://smt.so){:target="_blank"} 
 <br />
-简介: 使用爬虫每天定期几次获取速卖通关键字搜索数据, 进行报表分析统计. 目标是可以使得速卖通卖家可以方便的知道自己商品被关键字搜索到的数据排名统计.
+简介: 使用爬虫每天定期几次获取速卖通关键字搜索数据, 进行报表分析统计. 目标是可以使得速卖通卖家可以方便的知道自己商品被关键字搜索到的数据排名统计.同时支持使用支付宝支付进行服务升级.
 <br />
-技术栈: Rails4, Clockwork, Capistrano + Unicorn, IoSpider, Bootstrap
+技术栈: Rails4, Clockwork, Capistrano + Unicorn, io_spider, Bootstrap
 
 * [西语中国](http://oncedoce.com){:target="_blank"} 
 <br />
 简介: 门户类型网站, 目标是让使用西语为母语的人更多的了解中国.
 <br />
-技术栈: Rails4, Capistrano + Unicorn, IoSpider, IoAsk, Bootstrap
+技术栈: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
 <br />
-非技术难点: 手动人工翻译 中 -> 英 -> 西
+非技术难点: 手动人工翻译 中 -> 西
 
 
 ***
@@ -89,6 +89,8 @@ Ruby on rails, Yii Framework, Zend Framework
 
 **主要负责的项目:**
 
+* [im-chat-parser](https://github.com/arlyxiao/im-chat-parser){:target="_blank"} QQ聊天记录解析库
+* [infocard-service](https://github.com/mindpin/infocard-service){:target="_blank"} 通过抓取程序获取各大电商网站价格，名称等数据
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} 图片上传服务
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} 基于 glebtv-mongoid_nested_set 开发的一个 Ruby Gem
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} 这是一个提供给学校老师跟学生用的校内教学管理系统. 主要负责该系统各个模块的开发

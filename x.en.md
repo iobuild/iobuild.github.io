@@ -66,15 +66,15 @@ Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to
 #### Personal Projects
 * [Aliexpress keywords analytics](http://smt.so){:target="_blank"} 
 <br />
-Intro: Fetch 'keyword search' data from http://aliexpress.com each day with spider program and do the data analytics.
+Intro: Fetch 'keyword search' data from http://aliexpress.com each day with spider program and do the data analytics. Also support alipay payment to upgrade service.
 <br />
-Gem used: Rails4, Clockwork, Capistrano + Unicorn, IoSpider, Bootstrap
+Gem used: Rails4, Clockwork, Capistrano + Unicorn, io_spider, Bootstrap, Alipay
 
 * [El portal de China para el mundo de habla hispana](http://oncedoce.com){:target="_blank"} 
 <br />
 Intro: It's a portal site for the people speak Spanish to know more China.
 <br />
-Gem used: Rails4, Capistrano + Unicorn, IoSpider, IoAsk, Bootstrap
+Gem used: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
 
 
 ***
@@ -89,6 +89,8 @@ Gem used: Rails4, Capistrano + Unicorn, IoSpider, IoAsk, Bootstrap
 
 **Responsibility:**
 
+* [im-chat-parser](https://github.com/arlyxiao/im-chat-parser){:target="_blank"} A lib for parse QQ chat log
+* [infocard-service](https://github.com/mindpin/infocard-service){:target="_blank"} Fetch price, name, image data with spider program from most of ecommerce sites
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} One simple photo upload service
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} One ruby gem based on glebtv-mongoid_nested_set
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
