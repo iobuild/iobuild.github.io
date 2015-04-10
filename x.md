@@ -66,7 +66,7 @@ Ruby on rails, Yii Framework, Zend Framework
 <br />
 简介: 使用爬虫每天定期几次获取速卖通关键字搜索数据, 进行报表分析统计. 目标是可以使得速卖通卖家可以方便的知道自己商品被关键字搜索到的数据排名统计.同时支持使用支付宝支付进行服务升级.
 <br />
-技术栈: Rails4, Clockwork, Capistrano + Unicorn, io_spider, Bootstrap
+技术栈: Rails4, Clockwork, Capistrano + Unicorn, io_spider, Bootstrap, Alipay
 
 * [西语中国](http://oncedoce.com){:target="_blank"} 
 <br />
