@@ -90,7 +90,7 @@ Ruby on rails, Yii Framework, Zend Framework
 **主要负责的项目:**
 
 * [im-chat-parser](https://github.com/arlyxiao/im-chat-parser){:target="_blank"} QQ聊天记录解析库
-* [infocard-service](https://github.com/mindpin/infocard-service){:target="_blank"} 通过抓取程序获取各大电商网站价格，名称等数据
+* [urlinfo-service](https://github.com/mindpin/urlinfo-service){:target="_blank"} 通过抓取程序获取各大电商网站价格，名称等数据
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} 图片上传服务
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} 基于 glebtv-mongoid_nested_set 开发的一个 Ruby Gem
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} 这是一个提供给学校老师跟学生用的校内教学管理系统. 主要负责该系统各个模块的开发

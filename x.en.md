@@ -90,7 +90,7 @@ Gem used: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
 **Responsibility:**
 
 * [im-chat-parser](https://github.com/arlyxiao/im-chat-parser){:target="_blank"} A lib for parse QQ chat log
-* [infocard-service](https://github.com/mindpin/infocard-service){:target="_blank"} Fetch price, name, image data with spider program from most of ecommerce sites
+* [urlinfo-service](https://github.com/mindpin/urlinfo-service){:target="_blank"} Fetch price, name, image data with spider program from most of ecommerce sites
 * [image-service](https://github.com/mindpin/image-service){:target="_blank"} One simple photo upload service
 * [mp-nested-set](https://github.com/mindpin/mp-nested-set){:target="_blank"} One ruby gem based on glebtv-mongoid_nested_set
 * [Eshare](https://github.com/mindpin/eshare){:target="_blank"} One software used by various schools. All of other similar school projects based on it.
