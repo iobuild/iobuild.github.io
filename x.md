@@ -36,6 +36,13 @@ Ruby on rails, Yii Framework, Zend Framework
 ***
 
 
+#### 个人简述
+自我驱动型开发者, 2007 - 2011 年主要使用 PHP / Zend Framework / Yii 进行相关WEB开发, 从 2012 起开始专注于 ruby/rails 相关领域开发.目前主要使用的编程语言以 Ruby 为主. 主要使用 mysql, mongodb 数据库， 偶尔也会使用JAVA做一些 android 相关的小应用.
+
+
+***
+
+
 
 
 #### 开源项目经历
@@ -54,15 +61,23 @@ Ruby on rails, Yii Framework, Zend Framework
 ***
 
 
+#### 个人项目
+* [速卖通关键字搜索排行分析](http://smt.so){:target="_blank"} 
+<br />
+简介: 使用爬虫每天定期几次获取速卖通关键字搜索数据, 进行报表分析统计. 目标是可以使得速卖通卖家可以方便的知道自己商品被关键字搜索到的数据排名统计.
+<br />
+技术栈: Rails4, Clockwork, Capistrano + Unicorn, IoSpider, Bootstrap
 
-#### 个人简述
-自我驱动型开发者, 2007 - 2011 年主要使用 PHP / Zend Framework / Yii 进行相关WEB开发, 从 2012 起开始专注于 ruby/rails 相关领域开发.目前主要使用的编程语言以 Ruby 为主. 主要使用 mysql, mongodb 数据库， 偶尔也会使用JAVA做一些 android 相关的小应用.
+* [西语中国](http://oncedoce.com){:target="_blank"} 
+<br />
+简介: 门户类型网站, 目标是让使用西语为母语的人更多的了解中国.
+<br />
+技术栈: Rails4, Capistrano + Unicorn, IoSpider, IoAsk, Bootstrap
+<br />
+非技术难点: 手动人工翻译 中 -> 英 -> 西
 
 
 ***
-
-
-
 
 
 

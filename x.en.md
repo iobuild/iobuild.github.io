@@ -39,6 +39,13 @@ Ruby on rails, Yii Framework, Zend Framework
 ***
 
 
+#### Personal Intro
+Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to 2011, Focus on Ruby/Rails from 2012. Ruby is the main program language with mysql, mongodb. Sometimes also design Android client with Java.
+
+
+***
+
+
 
 
 #### Open Source Experience
@@ -56,14 +63,21 @@ Ruby on rails, Yii Framework, Zend Framework
 
 ***
 
+#### Personal Projects
+* [Aliexpress keywords analytics](http://smt.so){:target="_blank"} 
+<br />
+Intro: Fetch 'keyword search' data from http://aliexpress.com each day with spider program and do the data analytics.
+<br />
+Gem used: Rails4, Clockwork, Capistrano + Unicorn, IoSpider, Bootstrap
 
-
-#### Personal Intro
-Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to 2011, Focus on Ruby/Rails from 2012. Ruby is the main program language with mysql, mongodb. Sometimes also design Android client with Java.
+* [El portal de China para el mundo de habla hispana](http://oncedoce.com){:target="_blank"} 
+<br />
+Intro: It's a portal site for the people speak Spanish to know more China.
+<br />
+Gem used: Rails4, Capistrano + Unicorn, IoSpider, IoAsk, Bootstrap
 
 
 ***
-
 
 
 
