@@ -1,2 +1,5 @@
 - name: Programming Tutorial
   source: http://www.programiz.com/
+
+- name: Inline Functions In C
+  source: http://www.greenend.org.uk/rjk/tech/inline.html
