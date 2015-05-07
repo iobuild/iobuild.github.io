@@ -32,7 +32,7 @@
 
 
 
-- name: Node.js itself is blocking, only its I/O is non-blocking
+- name: 'Node.js itself is blocking, only its I/O is non-blocking'
   source: http://greenash.net.au/thoughts/2012/11/nodejs-itself-is-blocking-only-its-io-is-non-blocking/
 
 
@@ -45,6 +45,63 @@
 
 - name: JavaScript探秘：强大的原型和原型链
   source: http://www.nowamagic.net/librarys/veda/detail/1648
+
+
+
+- name: 'Understand JavaScript Callback Functions and Use Them'
+  source: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+
+
+
+
+
+- name: 'Adventures In Angular'
+  source: http://www.bennadel.com/blog/2821-adventures-in-angular-episode-38-performance-with-ben-nadel.htm
+
+
+- name: 'Ngaji Gurrijin: How to Preserve Language in the Digital Age'
+  source: http://www.thoughtworks.com/insights/blog/preserving-culture-digital-age
+
+
+
+
+
+- name: 'Understanding AngularJS Factory, Service and Provider'
+  source: http://www.dotnet-tricks.com/Tutorial/angularjs/V2YS090914-Understanding-AngularJS-Factory,-Service-and-Provider.html
+
+
+
+
+
+- name: 'D3 for Mere Mortals'
+  source: http://www.recursion.org/d3-for-mere-mortals/
+
+
+
+
+
+- name: 'Javascript Self Invoking Functions'
+  source: https://sarfraznawaz.wordpress.com/2012/01/26/javascript-self-invoking-functions/
+
+
+
+
+
+- name: 'Stop Nesting Functions! (But Not All of Them)'
+  source: http://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315
+
+
+
+
+
+- name: '前端必读：浏览器内部工作原理'
+  source: http://kb.cnblogs.com/page/129756/
+
+
+
+
+- name: ' Javascript :: Pass function as parameter'
+  source: http://tech.deepumohan.com/2013/07/javascript-pass-function-as-parameter.html
 
 
 
