@@ -105,4 +105,23 @@
 
 
 
+- name: 'JavaScript Dependency Injection'
+  source: http://merrickchristensen.com/articles/javascript-dependency-injection.html
+
+
+
+
+- name: 'AngularJS in 60 minutes'
+  source: http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf
+
+
+
+
+
+- name: 'How To Handle User Authentication With AngularJS Inside Your Ionic App'
+  source: http://devdactic.com/user-auth-angularjs-ionic/
+
+
+
+
 
