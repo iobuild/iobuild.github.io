@@ -48,7 +48,6 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 #### 开源项目经历
 
 * [oncedoce-client](https://github.com/arlyxiao/oncedoce-client){:target="_blank"} 基于 Ionic 做的 oncedoce.com 客户端
-
 * [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 Rails Engine 商店组件，用于快速嵌入任何 Rails 应用中
 * [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认 Bootstrap 模板等许多基本网站特性的应用
 * [io_spider](https://github.com/iobuild/io_spider){:target="_blank"} 基于 Mechanize 开发的网页爬虫工具
