@@ -2,6 +2,20 @@
   source: http://blog.bigbinary.com/2013/03/19/cookies-on-rails.html
 
 
+
+
+- name:  RSpec Setup in Rails 4
+  source: http://www.bicrement.com/articles/2014/rspec-setup-in-rails-4.html
+
+
+- name:  Testing Rails 4 Apps With RSpec 3: Part II
+  source: http://www.webascender.com/Blog/ID/629/Testing-Rails-4-Apps-With-RSpec-3-Part-II
+
+
+- name: Rails Best Practices
+  source: http://rails-bestpractices.com
+
+
 - name: How are gems loaded in a Rails application
   source: http://www.cybrilla.com/blog/how-are-gems-loaded-in-a-rails-application/
 
@@ -83,6 +97,13 @@
 
 - name:  Code Concerns in Rails 4 Models
   source: http://richonrails.com/articles/rails-4-code-concerns-in-active-record-models
+
+
+
+- name: Speed Up JavaScript Capybara Specs by Blacklisting URLs
+  source: https://robots.thoughtbot.com/speed-up-javascript-capybara-specs-by-blacklisting-urls
+
+
 
 
 
