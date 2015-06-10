@@ -82,7 +82,7 @@ Gem used: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
 
 
 
-#### 2012/02 - Now: Mindpin
+#### 2012/02 - 2015/05: Mindpin
 
 **Program:** Ruby, Javascript, Java
 

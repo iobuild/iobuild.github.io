@@ -82,7 +82,7 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 
 
-#### 2012/02 - 现在: Mindpin
+#### 2012/02 - 2015/05: Mindpin
 
 **开发工具:** Ruby, Javascript, Java
 
