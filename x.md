@@ -37,7 +37,7 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 
 #### 个人简述
-自我驱动型开发者, 2007 - 2011 年主要使用 PHP / Zend Framework / Yii 进行相关WEB开发, 从 2012 起开始专注于 ruby/rails 相关领域开发.目前主要使用的编程语言以 Ruby 为主. 主要使用 mysql, mongodb 数据库， 偶尔也会使用JAVA做一些 android 相关的小应用.
+自我驱动型开发者, 2007 - 2011 年主要使用 PHP / Zend Framework / Yii 进行相关WEB开发, 从 2012 起开始专注于 ruby/rails 相关领域开发.目前主要使用的编程语言以 Ruby 为主. 主要使用 mysql, mongodb 数据库， 偶尔也会使用JAVA 或 Ionic/Angularjs 做一些 android 相关的小应用, 对函数式编程, 如 Haskell 保持着极大的兴趣.
 
 
 ***
