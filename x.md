@@ -10,7 +10,7 @@ description: ""
 
 **年龄:** 1986 / 08 / 19, 来自福建
 
-**语言掌握:** Ruby, Javascript, PHP, JAVA
+**语言掌握:** Ruby, Javascript, PHP, JAVA, Haskell
 
 **主要使用过的框架:** 
 Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
