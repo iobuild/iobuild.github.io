@@ -1,0 +1,21 @@
+---
+layout: default
+title: C program 资料汇总链接1
+tags: c_program
+published: true
+author: Arly Xiao
+categories: c-bookmark
+---
+{% include JB/setup %}
+
+
+
+<ul>
+{% for member in site.data.bookmarks.c1 %}
+  <li>
+    <a href="{{ member.source }}" target="_blank">
+      {{ member.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
