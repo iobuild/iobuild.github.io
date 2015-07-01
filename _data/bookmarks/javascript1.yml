@@ -124,4 +124,10 @@
 
 
 
+- name: 'Understanding module.exports and exports in Node.js'
+  source: http://www.sitepoint.com/understanding-module-exports-exports-node-js/
+
+
+
+
 
