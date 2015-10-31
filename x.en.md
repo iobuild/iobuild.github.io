@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: "X"
+title: "Arly Xiao"
 description: ""
 ---
 {% include JB/setup %}
@@ -12,7 +12,6 @@ description: ""
 **Age:** 1986 / 08 / 19, From Fujian Province
 
 **From:** Fujian Province
-
 
 **Program Skills:** Ruby, Javascript, PHP, JAVA
 
