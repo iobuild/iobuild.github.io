@@ -18,9 +18,9 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 **Databases:** SQLite, MySQL, PostgreSQL, Redis, MongoDB
 
-**Development IDE:** Mac Os / Linux + Sublime / Android Studio / Vim
+**Development IDE:** Mac OS / Linux + Sublime / Android Studio / Vim / Xcode
 
-**Interest:** Love making more automatical tools which can instead of human
+**Interest:** Love making more automation tool
 
 
 
