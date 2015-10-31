@@ -11,7 +11,7 @@ description: ""
 
 **Age:** 1986 / 08 / 19, From Fujian Province
 
-**Program Skills:** Ruby, Javascript, PHP, JAVA, Haskell
+**Program Skills:** Ruby, Javascript, PHP, JAVA
 
 **Frameworks:**
 Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
