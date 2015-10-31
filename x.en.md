@@ -9,7 +9,7 @@ description: ""
 #### Arly Xiao
 
 
-**Age:** 1986 / 08 / 19, From Fujian Province
+**Age:** 1986 / 08 / 19
 
 **From:** Fujian Province
 
