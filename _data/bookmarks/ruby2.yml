@@ -4,3 +4,7 @@
 
 - name: Cookies on Rails
   source: http://blog.bigbinary.com/2013/03/19/cookies-on-rails.html
+
+
+- name: Understanding Ruby and Rails: Delegate
+  source: http://simonecarletti.com/blog/2009/12/inside-ruby-on-rails-delegate/

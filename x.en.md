@@ -80,7 +80,12 @@ Gem used: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
 
 ***
 
+#### 2015/08 - Now: DealGlobe
 
+**Program:** Ruby, Javascript
+
+**Responsibility:**
+Build and maintain www.dealglobe.com with Ruby
 
 #### 2012/02 - 2015/05: Mindpin
 

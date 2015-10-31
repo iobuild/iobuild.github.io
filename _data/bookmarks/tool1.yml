@@ -7,3 +7,7 @@
 
 - name: js2coffee
   source: http://js2coffee.org/
+
+
+- name: 廖雪峰的官方网站
+  source: http://www.liaoxuefeng.com/

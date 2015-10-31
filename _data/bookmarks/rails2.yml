@@ -1,2 +1,8 @@
 - name: 只做数据绑定的JS框架，相对其他MVC框架来说更简洁些
   source: http://gwendall.github.io/way/
+
+- name:  How Rails Sessions Work 
+  source: http://www.justinweiss.com/blog/2015/03/17/how-rails-sessions-work/
+
+- name:   database is being accessed by other users
+  source: http://www.question-defense.com/2008/11/12/postgres-error-database-dev-is-being-accessed-by-other-users
