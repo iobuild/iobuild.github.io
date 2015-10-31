@@ -175,3 +175,7 @@ Build and maintain www.dealglobe.com with Ruby
 #### Contact
 * **Email:** kingla_pei@163.com
 * **Tel:** 13 585 715 714
+
+
+#### [Download](http://iobuild.github.io/self.pdf){:target="_blank"}
+
