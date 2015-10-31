@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 
-#### Arly Xiao
+#### Arly Xiao ([Download PDF](http://iobuild.github.io/self.pdf){:target="_blank"})
 
 
 **Age:** 1986 / 08 / 19
@@ -177,5 +177,4 @@ Build and maintain www.dealglobe.com with Ruby
 * **Tel:** 13 585 715 714
 
 
-#### [Download](http://iobuild.github.io/self.pdf){:target="_blank"}
 
