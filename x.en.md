@@ -13,7 +13,7 @@ description: ""
 
 **From:** Fujian Province
 
-**Program Skills:** Ruby, Javascript, PHP, JAVA
+**Program Skills:** Ruby, Javascript, PHP, JAVA, Objective C, Python
 
 **Frameworks:**
 Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
