@@ -80,7 +80,7 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 ***
 
-#### 2015/08 - Now: DealGlobe
+#### 2015/08 - 现在: DealGlobe
 
 **开发工具:** Ruby, Javascript
 
