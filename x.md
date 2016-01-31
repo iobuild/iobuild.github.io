@@ -59,24 +59,6 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 
 
-***
-
-
-#### 个人项目
-* [速卖通关键字搜索排行分析](http://smt.so){:target="_blank"} 
-<br />
-简介: 使用爬虫每天定期几次获取速卖通关键字搜索数据, 进行报表分析统计. 目标是可以使得速卖通卖家可以方便的知道自己商品被关键字搜索到的数据排名统计. 同时支持使用支付宝支付进行服务升级.
-<br />
-技术栈: Rails4, Clockwork, Capistrano + Unicorn, io_spider, Bootstrap, Alipay
-
-* [西语中国](http://oncedoce.com){:target="_blank"} 
-<br />
-简介: 门户类型网站, 目标是让使用西语为母语的人更多的了解中国.
-<br />
-技术栈: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
-<br />
-非技术难点: 手动人工翻译 中 -> 西
-
 
 ***
 
