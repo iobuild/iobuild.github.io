@@ -80,7 +80,12 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 ***
 
+#### 2015/08 - Now: DealGlobe
 
+**开发工具:** Ruby, Javascript
+
+**主要负责的项目:**
+维护开发 www.dealglobe.com
 
 #### 2012/02 - 2015/05: Mindpin
 
