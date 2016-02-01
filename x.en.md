@@ -66,22 +66,6 @@ Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to
 
 ***
 
-#### Personal Projects
-* [Aliexpress keywords analytics](http://smt.so){:target="_blank"} 
-<br />
-Intro: Fetch 'keyword search' data from http://aliexpress.com each day with spider program and do the data analytics. Also support alipay payment to upgrade service.
-<br />
-Gem used: Rails4, Clockwork, Capistrano + Unicorn, io_spider, Bootstrap, Alipay
-
-* [El portal de China para el mundo de habla hispana](http://oncedoce.com){:target="_blank"} 
-<br />
-Intro: It's a portal site for the people speak Spanish to know more China.
-<br />
-Gem used: Rails4, Capistrano + Unicorn, io_spider, io_ask, Bootstrap
-
-
-***
-
 #### 2015/08 - Now: DealGlobe
 
 **Program:** Ruby, Javascript
