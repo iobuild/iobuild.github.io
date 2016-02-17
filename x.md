@@ -162,5 +162,5 @@ Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
 
 #### 联系方式
 * **Email:** kingla_pei # 163.com
-* **Tel:** 139 60 418 536
+* **Tel:** 13585 715 714
 
