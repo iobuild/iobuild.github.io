@@ -13,7 +13,7 @@ description: ""
 **语言掌握:** Ruby, Javascript, PHP, JAVA, Haskell
 
 **主要使用过的框架:** 
-Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
+Ruby on rails, Angularjs, Ionic, Zend Framework
 
 **常用数据库:** SQLite, MySQL, PostgreSQL, Redis, Mongodb
 
