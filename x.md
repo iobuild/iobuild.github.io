@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 
-#### 肖少富 (Arly Xiao)
+#### 肖少富
 
 **年龄:** 1986 / 08 / 19, 来自福建
 
