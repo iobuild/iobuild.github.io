@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 
-#### Arly Xiao ([Download PDF](http://iobuild.github.io/self.pdf){:target="_blank"})
+#### Arly Xiao
 
 
 **Age:** 1986 / 08 / 19
