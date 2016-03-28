@@ -10,10 +10,10 @@ description: ""
 
 **年龄:** 1986 / 08 / 19, 来自福建
 
-**语言掌握:** Ruby, Javascript, PHP, JAVA, Haskell
+**语言掌握:** Ruby, Javascript, PHP, JAVA
 
 **主要使用过的框架:** 
-Ruby on rails, Angularjs, Ionic, Zend Framework
+Ruby on rails, Angularjs, Ionic, Laravel
 
 **常用数据库:** SQLite, MySQL, PostgreSQL, Redis, Mongodb
 
@@ -43,7 +43,7 @@ Ruby on rails, Angularjs, Ionic, Zend Framework
 
 
 #### 开源项目经历
-
+* [handuser](https://github.com/arlyxiao/handuser){:target="_blank"} 基于 laravel 做的. 可结合自己的名字做微信推广
 * [oncedoce-client](https://github.com/arlyxiao/oncedoce-client){:target="_blank"} 基于 Ionic 做的 oncedoce.com 客户端
 * [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 Rails Engine 商店组件，用于快速嵌入任何 Rails 应用中
 * [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} 快速生成一个有用户登录注册，后台管理，默认 Bootstrap 模板等许多基本网站特性的应用
@@ -59,7 +59,7 @@ Ruby on rails, Angularjs, Ionic, Zend Framework
 
 ***
 
-#### 2015/08 - 现在: DealGlobe
+#### 2015/08 - 2016/03: DealGlobe
 
 **开发工具:** Ruby, Javascript
 

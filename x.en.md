@@ -13,10 +13,10 @@ description: ""
 
 **From:** Fujian Province
 
-**Program Skills:** Ruby, Javascript, PHP, JAVA, Objective C, Python
+**Program Skills:** Ruby, Javascript, PHP, JAVA
 
 **Frameworks:**
-Ruby on rails, Angularjs, Ionic, Yii Framework, Zend Framework
+Ruby on rails, Angularjs, Ionic, Laravel
 
 **Databases:** SQLite, MySQL, PostgreSQL, Redis, MongoDB
 
@@ -51,6 +51,7 @@ Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to
 
 
 #### Open Source Experience
+* [handuser](https://github.com/arlyxiao/handuser){:target="_blank"} Based on laravel.
 
 * [oncedoce-client](https://github.com/arlyxiao/oncedoce-client){:target="_blank"} The client of oncedoce.com. Based on Ionic.
 * [io_store](https://github.com/iobuild/io_store){:target="_blank"} A rails engine store aims to embed into any rails application
@@ -66,7 +67,7 @@ Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to
 
 ***
 
-#### 2015/08 - Now: DealGlobe
+#### 2015/08 - 2016/03: DealGlobe
 
 **Program:** Ruby, Javascript
 
