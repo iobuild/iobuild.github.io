@@ -51,8 +51,7 @@ Self-motivated developer, Concentrate on PHP / Zend Framework / Yii from 2007 to
 
 
 #### Open Source Experience
-* [handuser](https://github.com/arlyxiao/handuser){:target="_blank"} Based on laravel.
-
+* [handuser](https://github.com/arlyxiao/handuser){:target="_blank"} Based on laravel. It can promote your name with wechat API.
 * [oncedoce-client](https://github.com/arlyxiao/oncedoce-client){:target="_blank"} The client of oncedoce.com. Based on Ionic.
 * [io_store](https://github.com/iobuild/io_store){:target="_blank"} A rails engine store aims to embed into any rails application
 * [io_rails_app](https://github.com/iobuild/io_rails_app){:target="_blank"} Generate a basic rails application with devise user authentication, bootstrap layout, admin management and so on
