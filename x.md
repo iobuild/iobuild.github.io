@@ -43,6 +43,7 @@ Ruby on rails, Angularjs, Ionic, Laravel
 
 
 #### 开源项目经历
+* [spina](https://github.com/denkGroot/Spina){:target="_blank"} 贡献者之一 https://github.com/denkGroot/Spina/graphs/contributors
 * [handuser](https://github.com/arlyxiao/handuser){:target="_blank"} 基于 laravel 做的. 可结合自己的名字做微信推广
 * [oncedoce-client](https://github.com/arlyxiao/oncedoce-client){:target="_blank"} 基于 Ionic 做的 oncedoce.com 客户端
 * [io_store](https://github.com/iobuild/io_store){:target="_blank"} 一个轻量级 Rails Engine 商店组件，用于快速嵌入任何 Rails 应用中
