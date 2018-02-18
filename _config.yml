@@ -1,4 +1,5 @@
 # Site Settings
+future: true
 title: My Resume
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
